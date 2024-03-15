@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj": {}
+    "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann-1\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj": {
+    "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann-1\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj",
+        "projectUniqueName": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann-1\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj",
         "projectName": "Mission10_Naumann",
-        "projectPath": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj",
+        "projectPath": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann-1\\Mission10_ANaumann\\backend\\Mission10_Naumann\\Mission10_Naumann.csproj",
         "packagesPath": "C:\\Users\\nauma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann\\backend\\Mission10_Naumann\\obj\\",
+        "outputPath": "C:\\Users\\nauma\\OneDrive\\Desktop\\Mission10_ANaumann-1\\Mission10_ANaumann\\backend\\Mission10_Naumann\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
